@@ -1,3 +1,8 @@
+/* 
+  Nama  : Hendra Kurnia Maliqi
+  NIM   : 24/542344/TK/60216
+*/
+
 import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
